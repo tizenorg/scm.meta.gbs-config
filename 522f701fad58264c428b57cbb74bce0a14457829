@@ -1,0 +1,9 @@
+Code-Review+2: Qiang Zhang <qiang.z.zhang@intel.com>
+Verified+1: Qiang Zhang <qiang.z.zhang@intel.com>
+Code-Review+1: Li Jinjing
+Verified+1: Li Jinjing
+Submitted-by: Qiang Zhang <qiang.z.zhang@intel.com>
+Submitted-at: Sun, 29 Jun 2014 19:01:53 -0700
+Reviewed-on: https://review.tizen.org/gerrit/23579
+Project: scm/meta/gbs-config
+Branch: refs/heads/tizen_common
